@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{4A8E2DBC-EE28-8F04-1604-B815B0A1A0D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/scripts 1/CanvasStatus.cs">
+    <Files>
+      <File FileName="Assets/Resources/scripts 1/CanvasStatus.cs" Line="14" Column="17" />
+      <File FileName="Assets/Resources/scripts 1/SceneController.cs" Line="90" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/UserInterface.cs" Line="34" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/SSAction.cs" Line="23" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/SSActionManager.cs" Line="4" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/CCMoveToAction.cs" Line="8" Column="44" />
+      <File FileName="Assets/Resources/scripts 1/CCSequeneActions.cs" Line="57" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/GameModel.cs" Line="27" Column="34" />
+      <File FileName="Assets/Resources/scripts 1/GameStatus.cs" Line="38" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/HeroStatus.cs" Line="43" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/ISSActionCallback.cs" Line="7" Column="62" />
+      <File FileName="Assets/Resources/scripts 1/PatrolFactory.cs" Line="40" Column="1" />
+      <File FileName="Assets/Resources/scripts 1/PatrolStatus.cs" Line="55" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity3d-PatrolEscaping-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="scripts 1" expanded="True">
+                  <Node name="CanvasStatus.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="018c8e0c-f75c-45cb-8d60-8283ac7780af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
